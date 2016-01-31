@@ -8,11 +8,12 @@
     *notice the difference between dimension of linear space.
 * every affine set can be expressed as the solution set of a system of linear equations.
 * affine hull __aff *C*__ (smallest)
-* relative interior __relint *c*__
-
+* relative interior __relint *C*__
+* convex set, convex hull 
 
 
 
 
 ## ETC
 * [definition of nullspace/kernel](https://en.wikipedia.org/wiki/nullspace)
+* [Relative Interior](https://en.wikipedia.org/wiki/Relative_interior)

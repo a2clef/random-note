@@ -9,7 +9,16 @@
 * every affine set can be expressed as the solution set of a system of linear equations.
 * affine hull __aff *C*__ (smallest)
 * relative interior __relint *C*__
-* convex set, convex hull 
+* convex set
+* convex combination, convex hull  __Conv *C*__  
+    *weight average  
+    *generalize to infinite sum  
+    *random, probablity, expectation  
+* conea(non-negative homogeneous)  
+    *convexcone  
+    *conic combination(non-gegative linear combination)  
+    *conic hull
+* Some Examples(see book)
 
 
 
